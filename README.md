@@ -4,6 +4,6 @@ Golang alternative to [node-automate](https://github.com/surajpheudin-github/nod
 
 ## Usage
 
-- Install go in your machine
+- Install golang on your machine
 - Clone this repo
 - Run `go run main.go`
